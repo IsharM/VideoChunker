@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output directories & test files
+output_scenes/
+test_output/
+*.zip
+
+# Media files
+*.mp4
+*.mp3
+*.m4a
+*.wav
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
